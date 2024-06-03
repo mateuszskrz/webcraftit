@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "A high performance laptop",
+        "price": 1000
+    },
+    {
+        "id": 2,
+        "name": "Desktop",
+        "description": "A powerful desktop",
+        "price": 1200
+    },
+    {
+        "id": 3,
+        "name": "Mouse",
+        "description": "A wireless mouse",
+        "price": 50
+    }
+]
